@@ -55,7 +55,7 @@ If you find any bugs or have ideas to make this project better, just send a pull
 This project is licensed under the MIT License.
 
 ## Authors
-AmirMasoud Ebrahimi
-Alireza Mohandesi
-Sajjad Agheli
+AmirMasoud Ebrahimi, 
+Alireza Mohandesi, 
+Sajjad Agheli, 
 AmirReza Jafari
