@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# PyQt5 specific
+*.pyqt5
+
+# CSV files
+results.csv
+
+# IDE specific files
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Cache files
+*.cache
+*.pkl
+*.pickle
